@@ -1,0 +1,62 @@
+[
+    {
+        "first_name": "Hod",
+        "last_name": "Vakrat",
+        "email": "Hod.Vakrat@e.braude.ac.il",
+        "courses": [
+            "web",
+            "AI",
+            "Cloud",
+            "compilation",
+            "physics",
+            "data mining"
+        ],
+        "link": "https://leetcode.com/",
+        "favorite_program": "kh"
+    },
+    {
+        "first_name": "Adir",
+        "last_name": "Avitan",
+        "email": "Adir.Avitan@e.braude.ac.il",
+        "courses": [
+            "web",
+            "AI",
+            "Cloud",
+            "compilation",
+            "physics",
+            "data mining"
+        ],
+        "link": "https://leetcode.com/",
+        "favorite_program": "kh"
+    },
+    {
+        "first_name": "Ido",
+        "last_name": "Peretz",
+        "email": "Ido.Peretz@e.braude.ac.il",
+        "courses": [
+            "web",
+            "AI",
+            "Cloud",
+            "compilation",
+            "physics",
+            "data mining"
+        ],
+        "link": "https://leetcode.com/",
+        "favorite_program": ""
+    },
+    {
+        "first_name": "Illya",
+        "last_name": "Simanovski",
+        "email": "Illya.Simanovski@e.braude.ac.il",
+        "courses": [
+            "web",
+            "AI",
+            "Cloud",
+            "compilation",
+            "physics",
+            "data mining"
+        ],
+        "link": "https://leetcode.com/",
+        "favorite_program": ""
+    }
+]
